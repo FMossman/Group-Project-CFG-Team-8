@@ -181,6 +181,7 @@ textarea{
 
 .footerBG{
     background-color: #6C733D;  
+    width: 100%;
 }
 
 .footer{
@@ -190,7 +191,6 @@ textarea{
     width: 80%;
     display: flex;
     justify-content: center;
-    
 }
 .footer ul li a{
     text-decoration: none !important;
