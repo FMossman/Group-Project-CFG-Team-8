@@ -180,7 +180,8 @@ textarea{
 /* Footer */
 
 .footerBG{
-    background-color: #6C733D;  
+    /*background-color: #6C733D;  */
+    background-color: blue;
     width: 100%;
 }
 
