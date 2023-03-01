@@ -182,6 +182,8 @@ textarea{
 .footerBG{
     background-color: #6C733D; 
     width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .footer{
